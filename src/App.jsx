@@ -2,10 +2,8 @@ import React from 'react'
 
 function App() {
   return (
-    <div 
-    className='bg-red-500 '
-    >
-      This is a simple Tailwind css template
+    <div className='p-10' >
+      <button class="btn btn-primary ">Button</button>
     </div>
   )
 }
